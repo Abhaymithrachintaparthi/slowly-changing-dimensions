@@ -1,8 +1,4 @@
-'''python
-# HelloWorldApp/views.py
-from django.http import JsonResponse
+'''from django.http import JsonResponse
 
 def hello_world(request):
-    return JsonResponse({'Message': 'Hello World!'})
-
-'''
+    return JsonResponse({'Message': 'Hello World!'})'''
